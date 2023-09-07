@@ -1,0 +1,1 @@
+This project is something I have never done before So far there are 2 python scripts that once specified a location will download the latest ISO version. For releases on Github use Github_Template.py and add the Owner and the Repo name into their respected fields. Once done it should work with all .iso files found on Github. Deletion of the Old iso version does not work yet. 
